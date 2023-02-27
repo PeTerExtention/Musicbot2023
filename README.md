@@ -86,6 +86,8 @@ docker-compose up -d
 ```
 
 
+## Cradit: Kabir Singh
+
 ## join support server
 
 https://discord.gg/9cAXP5j5Rc
